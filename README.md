@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdullahi Mohamud Ahmed
 
-<!--
-**cabdalle8180/Cabdalle8180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I am a **Software Developer** and **Data Analyst** from Somalia.  
+🎯 I build Web & Mobile Applications and love solving real-world problems with code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 Featured Project
+
+**Digital License System**  
+A cross-platform application for managing and issuing licenses (Web + Mobile).
+
+---
+
+## 🛠️ Skills
+
+- **Languages**: HTML, CSS, JavaScript, Python, PHP, Node.js
+- **Frontend**: React.js, Bootstrap, Tailwind CSS
+- **Databases**: MySQL, MongoDB
+- **Analytics**: Excel, Power BI
+- **Tools**: Git, VS Code, Postman
+
+---
+
+## 📫 Contact
+
+📧 **abdallamoha243@gmail.com**  
+📱 **+252 61 9818075**
+
+---
+
+> “Keep learning. Keep building. Keep growing.”
