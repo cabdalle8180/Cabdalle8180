@@ -1,4 +1,4 @@
-# 👋 Hi, I'm 
+#  I'm 
 
 💻 I am a **Software Developer** and **Data Analyst** from Somalia.  
 🎯 I build Web & Mobile Applications and love solving real-world problems with code.
